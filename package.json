@@ -1,0 +1,19 @@
+{
+  "name": "tugas_week_7_nodejs",
+  "version": "1.0.0",
+  "description": "### Deskripsi Tugas Sebagai seorang Nodejs developer kamu diminta untuk membuat sebuah aplikasi berbasis CLI yang digunakan untuk keperluan manajemen file system.Aplikasi ini akan digunakan untuk menata ulang dan merapikan sebuah folder.Aplikasi ini mempunyai beberapa fitur utama diantaranya :",
+  "main": "index.js",
+  "scripts": {
+    "make-folder": "node index.js make-folder",
+    "make-file": "node index.js make-file",
+    "ext-sorter": "node index.js ext-sorter",
+    "read-folder": "node index.js read-folder",
+    "read-file": "node index.js read-file"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
